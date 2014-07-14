@@ -15,7 +15,7 @@ Simple program that extracts Hearthstone card XML data from `cardxml0.unity3d`
 
 ## Usage
 
-    $ parse-cardxml cardxml0.unity3d > cards.xml
+    $ hearthstone-cardxml cardxml0.unity3d > cards.xml
 
 ## License
 
